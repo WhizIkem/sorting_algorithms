@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "sort.h"
 /**
  * merge - merges l and r arrays into original array
